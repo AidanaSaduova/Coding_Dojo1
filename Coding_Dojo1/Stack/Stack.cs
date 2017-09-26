@@ -9,7 +9,7 @@ namespace Coding_Dojo1.Stack
     class Stack<T>
     {
         private PosVal<T> posval;
-        public void pop()
+        public void pop(T elem)
         {
             
         }
