@@ -14,7 +14,7 @@ namespace Coding_Dojo1.Stack
             
         }
 
-        public void push()
+        public void push(T elem)
         {
             
         }
