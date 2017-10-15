@@ -42,10 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SomeObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Stack\Main.cs" />
-    <Compile Include="Stack\PosVal.cs" />
+    <Compile Include="Stack\NextVal.cs" />
     <Compile Include="Stack\Stack.cs" />
   </ItemGroup>
   <ItemGroup>
